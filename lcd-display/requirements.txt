@@ -1,4 +1,0 @@
-Pillow
-requests
-adafruit-circuitpython-rgb-display
-RPi.GPIO
